@@ -2,5 +2,6 @@
 title: Welcome to my blog
 ---
 
-Hello
+[Close Concession](alintaenergyapp://concession)
+
 
