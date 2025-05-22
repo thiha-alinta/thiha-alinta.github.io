@@ -2,6 +2,8 @@
 title: Welcome to my blog
 ---
 
-[Close Concession](alintaenergyapp://concession)
+[Submit success=true](alintaenergyapp://concession?success=true)
+
+[Submit success=false](alintaenergyapp://concession?success=false)
 
 
